@@ -1,0 +1,9 @@
+{
+	"author": "Tim",
+	"version": "1.0",
+	"server_scripts": [
+		"server/pickups.server.lua",
+        "server/file.lua",
+        "server/json.lua"
+	]
+}
