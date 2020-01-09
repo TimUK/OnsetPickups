@@ -16,6 +16,9 @@ To create a health pickup:
 To create a vehicle repair pickup:
 /createpickup repair
 
+To delete a pickup:
+Walk in to a pickup created by the package and type /deletepickup
+
 ## Current known issues
 When pickups.json file exists but is empty, there will be a (harmless) error in the console when attempting to load the pickups.
 
