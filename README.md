@@ -26,4 +26,4 @@ When pickups.json file exists but is empty, there will be a (harmless) error in 
 I intend to greatly add to this with a GUI, proper permissions and some other stuff. If you have any suggestions, feel free to let me know.
 
 ## Acknowledgements
-"Borrowed" the file and json files from Digital's (@Dig) [sandbox editor](https://github.com/dig/onset-sandbox-editor) - thanks!.
+"Borrowed" the file and json files from [Digital's sandbox editor](https://github.com/dig/onset-sandbox-editor) - thanks!.
