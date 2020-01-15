@@ -7,6 +7,8 @@ The package allows you to create player health and vehicle repair pickups wherev
 
 You can restrict access to create/delete commands by putting your admins steam IDs in the administrativeSteamIDs table at the top of pickups.server.lua (I plan to change this but this is my lazy solution for now). If you want anyone to be able to use these commands, add 999 to the table (default).
 
+![Preview](https://cdn.discordapp.com/attachments/656550879176163329/664950092079562752/unknown.png)
+
 ## How to use
 Put the files & package.json in to a folder in your packages folder as normal and start the package or add it to your server_config.json
 
